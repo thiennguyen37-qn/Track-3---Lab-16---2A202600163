@@ -2,128 +2,1760 @@
   {
     "qid": "hp1",
     "difficulty": "easy",
-    "question": "Which university did the author of The Hobbit teach at?",
-    "gold_answer": "Oxford University",
+    "question": "Which country is the author of Pride and Prejudice from?",
+    "gold_answer": "United Kingdom",
     "context": [
       {
-        "title": "J. R. R. Tolkien",
-        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+        "title": "Pride and Prejudice",
+        "text": "Pride and Prejudice is a novel written by Jane Austen."
       },
       {
-        "title": "Oxford University",
-        "text": "Oxford University is a collegiate research university in Oxford, England."
+        "title": "Jane Austen",
+        "text": "Jane Austen was an English writer from the United Kingdom."
       }
     ]
   },
   {
     "qid": "hp2",
     "difficulty": "medium",
-    "question": "What river flows through the city where Ada Lovelace was born?",
-    "gold_answer": "River Thames",
+    "question": "What river flows through the capital of Germany?",
+    "gold_answer": "Spree",
     "context": [
       {
-        "title": "Ada Lovelace",
-        "text": "Ada Lovelace was born in London, England."
+        "title": "Germany",
+        "text": "The capital of Germany is Berlin."
       },
       {
-        "title": "London",
-        "text": "London is crossed by the River Thames."
+        "title": "Berlin",
+        "text": "The River Spree flows through Berlin."
       }
     ]
   },
   {
     "qid": "hp3",
     "difficulty": "easy",
-    "question": "What instrument did the composer of The Four Seasons mainly play?",
-    "gold_answer": "violin",
+    "question": "What instrument did the composer of The Nutcracker mainly play?",
+    "gold_answer": "piano",
     "context": [
       {
-        "title": "The Four Seasons",
-        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+        "title": "The Nutcracker",
+        "text": "The Nutcracker was composed by Pyotr Ilyich Tchaikovsky."
       },
       {
-        "title": "Antonio Vivaldi",
-        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+        "title": "Tchaikovsky",
+        "text": "Tchaikovsky was a composer and pianist."
       }
     ]
   },
   {
     "qid": "hp4",
     "difficulty": "medium",
-    "question": "Which ocean borders the country whose capital is Lima?",
-    "gold_answer": "Pacific Ocean",
+    "question": "Which continent is the country located on where Argentina is?",
+    "gold_answer": "South America",
     "context": [
       {
-        "title": "Lima",
-        "text": "Lima is the capital city of Peru."
+        "title": "Argentina",
+        "text": "Argentina is a country in South America."
       },
       {
-        "title": "Peru",
-        "text": "Peru borders the Pacific Ocean."
+        "title": "South America",
+        "text": "South America is a continent."
       }
     ]
   },
   {
     "qid": "hp5",
     "difficulty": "easy",
-    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
-    "gold_answer": "mathematics",
+    "question": "What field did the scientist who proposed the theory of evolution study?",
+    "gold_answer": "natural science",
     "context": [
       {
-        "title": "Isaac Newton",
-        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+        "title": "Theory of evolution",
+        "text": "The theory of evolution was proposed by Charles Darwin."
       },
       {
-        "title": "Laws of motion",
-        "text": "The three laws of motion are attributed to Isaac Newton."
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a natural scientist."
       }
     ]
   },
   {
     "qid": "hp6",
     "difficulty": "hard",
-    "question": "What sea borders the country where Petra is located?",
+    "question": "Which sea borders the country where the city of Amman is located?",
     "gold_answer": "Dead Sea",
     "context": [
       {
-        "title": "Petra",
-        "text": "Petra is a historical city in Jordan."
+        "title": "Amman",
+        "text": "Amman is the capital of Jordan."
       },
       {
         "title": "Jordan",
-        "text": "Jordan borders the Dead Sea to the west."
+        "text": "Jordan borders the Dead Sea."
       }
     ]
   },
   {
     "qid": "hp7",
     "difficulty": "medium",
-    "question": "Which language family does the primary language of Brazil belong to?",
+    "question": "Which language family does the main language of Italy belong to?",
     "gold_answer": "Romance",
     "context": [
       {
-        "title": "Brazil",
-        "text": "The official language of Brazil is Portuguese."
+        "title": "Italy",
+        "text": "The main language of Italy is Italian."
       },
       {
-        "title": "Portuguese language",
-        "text": "Portuguese is a Romance language."
+        "title": "Italian language",
+        "text": "Italian is a Romance language."
       }
     ]
   },
   {
     "qid": "hp8",
+    "difficulty": "easy",
+    "question": "What profession did the creator of Winnie-the-Pooh have?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "Winnie-the-Pooh",
+        "text": "Winnie-the-Pooh was created by A. A. Milne."
+      },
+      {
+        "title": "A. A. Milne",
+        "text": "A. A. Milne was an English writer."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Madrid?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "easy",
+    "question": "What instrument did Chopin mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Chopin",
+        "text": "Frédéric Chopin was a famous composer."
+      },
+      {
+        "title": "Frédéric Chopin",
+        "text": "Chopin was a composer and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "medium",
+    "question": "Which country contains the city where Big Ben is located?",
+    "gold_answer": "United Kingdom",
+    "context": [
+      {
+        "title": "Big Ben",
+        "text": "Big Ben is located in London."
+      },
+      {
+        "title": "London",
+        "text": "London is a city in the United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "easy",
+    "question": "What field did the inventor of the light bulb work in?",
+    "gold_answer": "engineering",
+    "context": [
+      {
+        "title": "Light bulb",
+        "text": "The light bulb was invented by Thomas Edison."
+      },
+      {
+        "title": "Thomas Edison",
+        "text": "Thomas Edison was an inventor and engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
     "difficulty": "hard",
-    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "question": "Which mountain range is located in the country whose capital is Vienna?",
+    "gold_answer": "Alps",
+    "context": [
+      {
+        "title": "Vienna",
+        "text": "Vienna is the capital of Austria."
+      },
+      {
+        "title": "Austria",
+        "text": "The Alps run through Austria."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "Which river flows through the city where the Louvre Museum is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine river flows through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "What profession did the author of Moby-Dick have?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "Moby-Dick",
+        "text": "Moby-Dick was written by Herman Melville."
+      },
+      {
+        "title": "Herman Melville",
+        "text": "Herman Melville was an American writer."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "Which continent is the country located on where Egypt is?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country in Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is a continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "What instrument did Bach mainly play?",
+    "gold_answer": "organ",
+    "context": [
+      {
+        "title": "Bach",
+        "text": "Johann Sebastian Bach was a composer."
+      },
+      {
+        "title": "Johann Sebastian Bach",
+        "text": "Bach was a composer and organist."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country where Lisbon is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Lisbon",
+        "text": "Lisbon is the capital of Portugal."
+      },
+      {
+        "title": "Portugal",
+        "text": "Portugal borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "easy",
+    "question": "What field did Marie Curie study?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie conducted pioneering research on radioactivity."
+      },
+      {
+        "title": "Curie",
+        "text": "Marie Curie was a physicist and chemist."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "hard",
+    "question": "Which sea borders the country where the city of Tel Aviv is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Tel Aviv",
+        "text": "Tel Aviv is a major city in Israel."
+      },
+      {
+        "title": "Israel",
+        "text": "Israel borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "easy",
+    "question": "Which country is the author of The Great Gatsby from?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "The Great Gatsby",
+        "text": "The Great Gatsby was written by F. Scott Fitzgerald."
+      },
+      {
+        "title": "F. Scott Fitzgerald",
+        "text": "F. Scott Fitzgerald was an American writer from the United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "The Danube river flows through Budapest."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Magic Flute mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "The Magic Flute",
+        "text": "The Magic Flute was composed by Wolfgang Amadeus Mozart."
+      },
+      {
+        "title": "Mozart",
+        "text": "Mozart was a composer and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "medium",
+    "question": "Which continent is the country located on where Chile is?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Chile",
+        "text": "Chile is a country in South America."
+      },
+      {
+        "title": "South America",
+        "text": "South America is a continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "easy",
+    "question": "What field did the scientist who developed general relativity study?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "General relativity",
+        "text": "General relativity was developed by Albert Einstein."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a theoretical physicist."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "hard",
+    "question": "Which sea borders the country where the city of Beirut is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Beirut",
+        "text": "Beirut is the capital of Lebanon."
+      },
+      {
+        "title": "Lebanon",
+        "text": "Lebanon borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "medium",
+    "question": "Which language family does the main language of France belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "France",
+        "text": "The main language of France is French."
+      },
+      {
+        "title": "French language",
+        "text": "French is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "easy",
+    "question": "What profession did the creator of Tarzan have?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "Tarzan",
+        "text": "Tarzan was created by Edgar Rice Burroughs."
+      },
+      {
+        "title": "Edgar Rice Burroughs",
+        "text": "Edgar Rice Burroughs was an American writer."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Oslo?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital of Norway."
+      },
+      {
+        "title": "Norway",
+        "text": "Norway borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "easy",
+    "question": "What instrument did Liszt mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Liszt",
+        "text": "Franz Liszt was a composer."
+      },
+      {
+        "title": "Franz Liszt",
+        "text": "Liszt was a composer and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "medium",
+    "question": "Which country contains the city where the Acropolis is located?",
+    "gold_answer": "Greece",
+    "context": [
+      {
+        "title": "Acropolis",
+        "text": "The Acropolis is located in Athens."
+      },
+      {
+        "title": "Athens",
+        "text": "Athens is a city in Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "easy",
+    "question": "What field did the inventor of the airplane work in?",
+    "gold_answer": "engineering",
+    "context": [
+      {
+        "title": "Airplane",
+        "text": "The airplane was invented by the Wright brothers."
+      },
+      {
+        "title": "Wright brothers",
+        "text": "The Wright brothers were pioneers in aviation engineering."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "hard",
+    "question": "Which mountain range is located in the country whose capital is Kathmandu?",
     "gold_answer": "Himalayas",
     "context": [
       {
         "title": "Kathmandu",
-        "text": "Kathmandu is the capital city of Nepal."
+        "text": "Kathmandu is the capital of Nepal."
       },
       {
         "title": "Nepal",
-        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+        "text": "The Himalayas run through Nepal."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "Which river flows through the city where the Colosseum is located?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "The Tiber river flows through Rome."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "easy",
+    "question": "What profession did the author of Dracula have?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "Dracula",
+        "text": "Dracula was written by Bram Stoker."
+      },
+      {
+        "title": "Bram Stoker",
+        "text": "Bram Stoker was an Irish writer."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "Which continent is the country located on where Morocco is?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Morocco",
+        "text": "Morocco is a country in Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is a continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "easy",
+    "question": "What instrument did Handel mainly play?",
+    "gold_answer": "organ",
+    "context": [
+      {
+        "title": "Handel",
+        "text": "George Frideric Handel was a composer."
+      },
+      {
+        "title": "George Frideric Handel",
+        "text": "Handel was a composer and organist."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country where Stockholm is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Stockholm",
+        "text": "Stockholm is the capital of Sweden."
+      },
+      {
+        "title": "Sweden",
+        "text": "Sweden borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "easy",
+    "question": "What field did Nikola Tesla study?",
+    "gold_answer": "engineering",
+    "context": [
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was an inventor known for his contributions to electricity."
+      },
+      {
+        "title": "Tesla",
+        "text": "Nikola Tesla was an electrical engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "hard",
+    "question": "Which sea borders the country where the city of Casablanca is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Casablanca",
+        "text": "Casablanca is a major city in Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "easy",
+    "question": "Which country is the author of Hamlet from?",
+    "gold_answer": "United Kingdom",
+    "context": [
+      {
+        "title": "Hamlet",
+        "text": "Hamlet is a tragedy written by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright from the United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of Austria?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Austria",
+        "text": "The capital of Austria is Vienna."
+      },
+      {
+        "title": "Vienna",
+        "text": "The Danube river flows through Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons was composed by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Vivaldi was a composer and violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "Which continent is the country located on where Peru is?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Peru",
+        "text": "Peru is a country in South America."
+      },
+      {
+        "title": "South America",
+        "text": "South America is a continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "easy",
+    "question": "What field did the scientist who discovered gravity study?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Gravity",
+        "text": "The theory of gravity was developed by Isaac Newton."
+      },
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a physicist and mathematician."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "hard",
+    "question": "Which sea borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "medium",
+    "question": "Which language family does the main language of Romania belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Romania",
+        "text": "The main language of Romania is Romanian."
+      },
+      {
+        "title": "Romanian language",
+        "text": "Romanian is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "easy",
+    "question": "What profession did the creator of Peter Pan have?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "Peter Pan",
+        "text": "Peter Pan was created by J. M. Barrie."
+      },
+      {
+        "title": "J. M. Barrie",
+        "text": "J. M. Barrie was a Scottish writer."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Dublin?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Dublin",
+        "text": "Dublin is the capital of Ireland."
+      },
+      {
+        "title": "Ireland",
+        "text": "Ireland borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "easy",
+    "question": "What instrument did Schubert mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Schubert",
+        "text": "Franz Schubert was a composer."
+      },
+      {
+        "title": "Franz Schubert",
+        "text": "Schubert was a composer and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Which country contains the city where Machu Picchu is located?",
+    "gold_answer": "Peru",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is a country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "easy",
+    "question": "What field did the inventor of the radio work in?",
+    "gold_answer": "engineering",
+    "context": [
+      {
+        "title": "Radio",
+        "text": "The radio was developed by Guglielmo Marconi."
+      },
+      {
+        "title": "Guglielmo Marconi",
+        "text": "Marconi was an inventor and electrical engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "hard",
+    "question": "Which mountain range is located in the country whose capital is Santiago?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Santiago",
+        "text": "Santiago is the capital of Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "The Andes mountains run through Chile."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "medium",
+    "question": "Which river flows through the city where the Kremlin is located?",
+    "gold_answer": "Moskva River",
+    "context": [
+      {
+        "title": "Kremlin",
+        "text": "The Kremlin is located in Moscow."
+      },
+      {
+        "title": "Moscow",
+        "text": "The Moskva River flows through Moscow."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "easy",
+    "question": "What profession did the author of The Odyssey have?",
+    "gold_answer": "poet",
+    "context": [
+      {
+        "title": "The Odyssey",
+        "text": "The Odyssey is attributed to Homer."
+      },
+      {
+        "title": "Homer",
+        "text": "Homer was an ancient Greek poet."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "medium",
+    "question": "Which continent is the country located on where Canada is?",
+    "gold_answer": "North America",
+    "context": [
+      {
+        "title": "Canada",
+        "text": "Canada is a country in North America."
+      },
+      {
+        "title": "North America",
+        "text": "North America is a continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "easy",
+    "question": "What instrument did Paganini mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "Paganini",
+        "text": "Niccolò Paganini was a composer."
+      },
+      {
+        "title": "Niccolò Paganini",
+        "text": "Paganini was a violinist and composer."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country where Helsinki is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Helsinki",
+        "text": "Helsinki is the capital of Finland."
+      },
+      {
+        "title": "Finland",
+        "text": "Finland borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "easy",
+    "question": "What field did Galileo Galilei study?",
+    "gold_answer": "astronomy",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo made important contributions to observational astronomy."
+      },
+      {
+        "title": "Galileo",
+        "text": "Galileo was an astronomer, physicist, and engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "hard",
+    "question": "Which sea borders the country where the city of Naples is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Naples",
+        "text": "Naples is a city in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "easy",
+    "question": "Which company created the iPhone?",
+    "gold_answer": "Apple",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone is a smartphone developed by Apple."
+      },
+      {
+        "title": "Apple",
+        "text": "Apple is a technology company based in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "medium",
+    "question": "What country is the company that created Windows based in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Windows",
+        "text": "Windows is an operating system developed by Microsoft."
+      },
+      {
+        "title": "Microsoft",
+        "text": "Microsoft is a technology company based in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "easy",
+    "question": "What sport does the athlete who won the most Olympic gold medals compete in?",
+    "gold_answer": "swimming",
+    "context": [
+      {
+        "title": "Olympic Games",
+        "text": "Michael Phelps has won the most Olympic gold medals."
+      },
+      {
+        "title": "Michael Phelps",
+        "text": "Michael Phelps is a swimmer."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Which league does the team that won the 2020 NBA Finals belong to?",
+    "gold_answer": "NBA",
+    "context": [
+      {
+        "title": "2020 NBA Finals",
+        "text": "The Los Angeles Lakers won the 2020 NBA Finals."
+      },
+      {
+        "title": "Los Angeles Lakers",
+        "text": "The Los Angeles Lakers are a team in the NBA."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "easy",
+    "question": "Who directed the movie Inception?",
+    "gold_answer": "Christopher Nolan",
+    "context": [
+      {
+        "title": "Inception",
+        "text": "Inception is a film directed by Christopher Nolan."
+      },
+      {
+        "title": "Christopher Nolan",
+        "text": "Christopher Nolan is a film director."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "hard",
+    "question": "What programming language was created by the organization that developed the Go language?",
+    "gold_answer": "Go",
+    "context": [
+      {
+        "title": "Go programming language",
+        "text": "Go was developed by Google."
+      },
+      {
+        "title": "Google",
+        "text": "Google created the Go programming language."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "Which country is the headquarters of the organization that runs the World Cup?",
+    "gold_answer": "Switzerland",
+    "context": [
+      {
+        "title": "FIFA World Cup",
+        "text": "The FIFA World Cup is organized by FIFA."
+      },
+      {
+        "title": "FIFA",
+        "text": "FIFA is headquartered in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "easy",
+    "question": "What field did the founder of Facebook study?",
+    "gold_answer": "computer science",
+    "context": [
+      {
+        "title": "Facebook",
+        "text": "Facebook was founded by Mark Zuckerberg."
+      },
+      {
+        "title": "Mark Zuckerberg",
+        "text": "Mark Zuckerberg studied computer science."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "medium",
+    "question": "Which company owns the platform that hosts the video Gangnam Style?",
+    "gold_answer": "Google",
+    "context": [
+      {
+        "title": "Gangnam Style",
+        "text": "Gangnam Style became popular on YouTube."
+      },
+      {
+        "title": "YouTube",
+        "text": "YouTube is owned by Google."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "easy",
+    "question": "What instrument does the musician who released Thriller mainly perform?",
+    "gold_answer": "vocals",
+    "context": [
+      {
+        "title": "Thriller",
+        "text": "Thriller is an album by Michael Jackson."
+      },
+      {
+        "title": "Michael Jackson",
+        "text": "Michael Jackson was primarily a singer."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "medium",
+    "question": "Which company developed the Android operating system?",
+    "gold_answer": "Google",
+    "context": [
+      {
+        "title": "Android",
+        "text": "Android is an operating system developed by Google."
+      },
+      {
+        "title": "Google",
+        "text": "Google is a major technology company."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "What sport does Lionel Messi play?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Lionel Messi",
+        "text": "Lionel Messi is an Argentine professional footballer."
+      },
+      {
+        "title": "Football",
+        "text": "Football is a popular sport worldwide."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that created PlayStation?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "PlayStation",
+        "text": "PlayStation is a gaming brand created by Sony."
+      },
+      {
+        "title": "Sony",
+        "text": "Sony is a company headquartered in Japan."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "Which streaming service released the series Stranger Things?",
+    "gold_answer": "Netflix",
+    "context": [
+      {
+        "title": "Stranger Things",
+        "text": "Stranger Things is a series released on Netflix."
+      },
+      {
+        "title": "Netflix",
+        "text": "Netflix is a streaming service."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "What role does the person who founded SpaceX have?",
+    "gold_answer": "entrepreneur",
+    "context": [
+      {
+        "title": "SpaceX",
+        "text": "SpaceX was founded by Elon Musk."
+      },
+      {
+        "title": "Elon Musk",
+        "text": "Elon Musk is an entrepreneur."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "medium",
+    "question": "Which sport is played by the team that won the FIFA World Cup in 2018?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "2018 FIFA World Cup",
+        "text": "France won the 2018 FIFA World Cup."
+      },
+      {
+        "title": "France national team",
+        "text": "The France national team plays football."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "easy",
+    "question": "What profession did the creator of Linux have?",
+    "gold_answer": "software engineer",
+    "context": [
+      {
+        "title": "Linux",
+        "text": "Linux was created by Linus Torvalds."
+      },
+      {
+        "title": "Linus Torvalds",
+        "text": "Linus Torvalds is a software engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "medium",
+    "question": "Which company owns Instagram?",
+    "gold_answer": "Meta",
+    "context": [
+      {
+        "title": "Instagram",
+        "text": "Instagram is owned by Meta."
+      },
+      {
+        "title": "Meta",
+        "text": "Meta is a technology company."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "easy",
+    "question": "What sport does Serena Williams play?",
+    "gold_answer": "tennis",
+    "context": [
+      {
+        "title": "Serena Williams",
+        "text": "Serena Williams is an American professional tennis player."
+      },
+      {
+        "title": "Tennis",
+        "text": "Tennis is a popular sport."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that created TikTok?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "TikTok",
+        "text": "TikTok is owned by ByteDance."
+      },
+      {
+        "title": "ByteDance",
+        "text": "ByteDance is a company headquartered in China."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "medium",
+    "question": "What country is the company that created the MacBook based in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "MacBook",
+        "text": "MacBook is a line of laptops developed by Apple."
+      },
+      {
+        "title": "Apple",
+        "text": "Apple is a technology company based in the United States."
+      },
+      {
+        "title": "Dell",
+        "text": "Dell is another computer manufacturer based in the United States."
+      },
+      {
+        "title": "Laptop",
+        "text": "A laptop is a portable computer."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "easy",
+    "question": "What sport does the athlete Usain Bolt compete in?",
+    "gold_answer": "sprinting",
+    "context": [
+      {
+        "title": "Usain Bolt",
+        "text": "Usain Bolt is a Jamaican sprinter."
+      },
+      {
+        "title": "Sprinting",
+        "text": "Sprinting is a track and field sport."
+      },
+      {
+        "title": "Cricket",
+        "text": "Cricket is a popular sport in Jamaica."
+      },
+      {
+        "title": "Jamaica",
+        "text": "Jamaica is a country in the Caribbean."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "hard",
+    "question": "Which country is the headquarters of the company that owns WhatsApp?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "WhatsApp",
+        "text": "WhatsApp is owned by Meta."
+      },
+      {
+        "title": "Meta",
+        "text": "Meta is a technology company headquartered in the United States."
+      },
+      {
+        "title": "Telegram",
+        "text": "Telegram is another messaging app."
+      },
+      {
+        "title": "Social media",
+        "text": "Social media platforms allow users to communicate online."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "medium",
+    "question": "What league does the team FC Barcelona belong to?",
+    "gold_answer": "La Liga",
+    "context": [
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a football club that plays in La Liga."
+      },
+      {
+        "title": "La Liga",
+        "text": "La Liga is the top football division in Spain."
+      },
+      {
+        "title": "Real Madrid",
+        "text": "Real Madrid is another football club in Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain is a country in Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "easy",
+    "question": "Who directed the movie Titanic?",
+    "gold_answer": "James Cameron",
+    "context": [
+      {
+        "title": "Titanic",
+        "text": "Titanic is a film directed by James Cameron."
+      },
+      {
+        "title": "James Cameron",
+        "text": "James Cameron is a film director."
+      },
+      {
+        "title": "Avatar",
+        "text": "Avatar is another film by James Cameron."
+      },
+      {
+        "title": "Film",
+        "text": "Films are a popular form of entertainment."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "medium",
+    "question": "Which company developed the Chrome browser?",
+    "gold_answer": "Google",
+    "context": [
+      {
+        "title": "Google Chrome",
+        "text": "Google Chrome is a web browser developed by Google."
+      },
+      {
+        "title": "Google",
+        "text": "Google is a major technology company."
+      },
+      {
+        "title": "Firefox",
+        "text": "Firefox is a browser developed by Mozilla."
+      },
+      {
+        "title": "Internet",
+        "text": "The internet is a global network."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that created Nintendo Switch?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Nintendo Switch",
+        "text": "Nintendo Switch is a console developed by Nintendo."
+      },
+      {
+        "title": "Nintendo",
+        "text": "Nintendo is a company headquartered in Japan."
+      },
+      {
+        "title": "PlayStation",
+        "text": "PlayStation is a console by Sony."
+      },
+      {
+        "title": "Gaming",
+        "text": "Gaming is a popular hobby worldwide."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "medium",
+    "question": "Which sport is played by the team that won the Super Bowl?",
+    "gold_answer": "American football",
+    "context": [
+      {
+        "title": "Super Bowl",
+        "text": "The Super Bowl is the championship game of the NFL."
+      },
+      {
+        "title": "NFL",
+        "text": "The NFL is a professional American football league."
+      },
+      {
+        "title": "NBA",
+        "text": "The NBA is a basketball league."
+      },
+      {
+        "title": "Basketball",
+        "text": "Basketball is played worldwide."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "easy",
+    "question": "What profession did Steve Jobs have?",
+    "gold_answer": "entrepreneur",
+    "context": [
+      {
+        "title": "Steve Jobs",
+        "text": "Steve Jobs co-founded Apple."
+      },
+      {
+        "title": "Entrepreneur",
+        "text": "An entrepreneur is someone who starts companies."
+      },
+      {
+        "title": "Apple",
+        "text": "Apple is a technology company."
+      },
+      {
+        "title": "Business",
+        "text": "Business involves trade and commerce."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "medium",
+    "question": "Which company owns LinkedIn?",
+    "gold_answer": "Microsoft",
+    "context": [
+      {
+        "title": "LinkedIn",
+        "text": "LinkedIn is owned by Microsoft."
+      },
+      {
+        "title": "Microsoft",
+        "text": "Microsoft is a technology company."
+      },
+      {
+        "title": "Facebook",
+        "text": "Facebook is owned by Meta."
+      },
+      {
+        "title": "Social networks",
+        "text": "Social networks connect people online."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "easy",
+    "question": "What sport does Roger Federer play?",
+    "gold_answer": "tennis",
+    "context": [
+      {
+        "title": "Roger Federer",
+        "text": "Roger Federer is a Swiss tennis player."
+      },
+      {
+        "title": "Tennis",
+        "text": "Tennis is a racket sport."
+      },
+      {
+        "title": "Switzerland",
+        "text": "Switzerland is a European country."
+      },
+      {
+        "title": "Football",
+        "text": "Football is a popular sport."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that owns Spotify?",
+    "gold_answer": "Sweden",
+    "context": [
+      {
+        "title": "Spotify",
+        "text": "Spotify is a streaming service company."
+      },
+      {
+        "title": "Spotify company",
+        "text": "Spotify is headquartered in Sweden."
+      },
+      {
+        "title": "Apple Music",
+        "text": "Apple Music is a competitor."
+      },
+      {
+        "title": "Music streaming",
+        "text": "Music streaming allows online listening."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "medium",
+    "question": "Which company created the Tesla electric car brand?",
+    "gold_answer": "Tesla",
+    "context": [
+      {
+        "title": "Tesla cars",
+        "text": "Tesla produces electric cars."
+      },
+      {
+        "title": "Tesla",
+        "text": "Tesla is a company founded by Elon Musk."
+      },
+      {
+        "title": "Ford",
+        "text": "Ford is a car manufacturer."
+      },
+      {
+        "title": "Cars",
+        "text": "Cars are vehicles."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "easy",
+    "question": "Who created the Python programming language?",
+    "gold_answer": "Guido van Rossum",
+    "context": [
+      {
+        "title": "Python",
+        "text": "Python was created by Guido van Rossum."
+      },
+      {
+        "title": "Guido van Rossum",
+        "text": "Guido van Rossum is a programmer."
+      },
+      {
+        "title": "Java",
+        "text": "Java is another programming language."
+      },
+      {
+        "title": "Programming",
+        "text": "Programming involves writing code."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "medium",
+    "question": "Which company owns Twitter?",
+    "gold_answer": "X Corp",
+    "context": [
+      {
+        "title": "Twitter",
+        "text": "Twitter is owned by X Corp."
+      },
+      {
+        "title": "X Corp",
+        "text": "X Corp is a company owned by Elon Musk."
+      },
+      {
+        "title": "Meta",
+        "text": "Meta owns Facebook."
+      },
+      {
+        "title": "Social media",
+        "text": "Social media platforms connect users."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "easy",
+    "question": "What sport does LeBron James play?",
+    "gold_answer": "basketball",
+    "context": [
+      {
+        "title": "LeBron James",
+        "text": "LeBron James is an NBA basketball player."
+      },
+      {
+        "title": "Basketball",
+        "text": "Basketball is played in the NBA."
+      },
+      {
+        "title": "NBA",
+        "text": "NBA is a basketball league."
+      },
+      {
+        "title": "Football",
+        "text": "Football is a different sport."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that created SAP software?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "SAP",
+        "text": "SAP is a software company."
+      },
+      {
+        "title": "SAP company",
+        "text": "SAP is headquartered in Germany."
+      },
+      {
+        "title": "Oracle",
+        "text": "Oracle is another software company."
+      },
+      {
+        "title": "Software",
+        "text": "Software is used in computing."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "medium",
+    "question": "Which company developed the Play Store?",
+    "gold_answer": "Google",
+    "context": [
+      {
+        "title": "Google Play Store",
+        "text": "Google Play Store is developed by Google."
+      },
+      {
+        "title": "Google",
+        "text": "Google is a technology company."
+      },
+      {
+        "title": "App Store",
+        "text": "App Store is developed by Apple."
+      },
+      {
+        "title": "Apps",
+        "text": "Apps are software programs."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "easy",
+    "question": "What sport does Novak Djokovic play?",
+    "gold_answer": "tennis",
+    "context": [
+      {
+        "title": "Novak Djokovic",
+        "text": "Novak Djokovic is a Serbian tennis player."
+      },
+      {
+        "title": "Tennis",
+        "text": "Tennis is a sport played worldwide."
+      },
+      {
+        "title": "Serbia",
+        "text": "Serbia is a country in Europe."
+      },
+      {
+        "title": "Basketball",
+        "text": "Basketball is another sport."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "hard",
+    "question": "What country is the headquarters of the company that created Alibaba?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "Alibaba",
+        "text": "Alibaba is a company founded by Jack Ma."
+      },
+      {
+        "title": "Alibaba Group",
+        "text": "Alibaba Group is headquartered in China."
+      },
+      {
+        "title": "Amazon",
+        "text": "Amazon is a US-based company."
+      },
+      {
+        "title": "E-commerce",
+        "text": "E-commerce involves online shopping."
       }
     ]
   }

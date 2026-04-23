@@ -13,13 +13,21 @@ class QAExample(BaseModel):
     gold_answer: str
     context: list[ContextChunk]
 
+from typing import Optional
+from pydantic import BaseModel, Field
+
 class JudgeResult(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho kết quả đánh giá (score, reason, ...)
-    pass
+    """Kết quả đánh giá từ Evaluator (Judge)."""
+    score: int = Field(..., description="Điểm số đánh giá câu trả lời (ví dụ: 0 là sai, 1 là đúng, hoặc thang điểm 1-10).")
+    reason: str = Field(..., description="Giải thích chi tiết lý do tại sao lại chấm mức điểm này.")
+    
 
 class ReflectionEntry(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho một mục reflection (attempt_id, lesson, strategy, ...)
-    pass
+    """Nội dung Reflection sau một lần trả lời sai."""
+    attempt_id: int = Field(..., description="ID của lần thử (attempt) đang được phân tích.")
+    failure_reason: str = Field(..., description="Nguyên nhân cụ thể khiến câu trả lời hoặc cách tiếp cận trước đó bị sai.")
+    lesson: str = Field(..., description="Bài học tổng quát rút ra từ sai lầm (failure_reason) đó.")
+    next_strategy: str = Field(..., description="Chiến lược chi tiết và các bước hành động để làm tốt hơn trong lần thử tiếp theo.")
 
 class AttemptTrace(BaseModel):
     attempt_id: int
